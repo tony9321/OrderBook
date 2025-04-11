@@ -1,6 +1,6 @@
 # OrderBook
 
-A high-performance, concurrent Order Book implemented in C++ using Intel Threading Building Blocks (TBB) for fine-grained concurrency. This project is designed for low-latency trading scenarios and includes features like limit orders, market orders, and IOC (immediate-or-cancel) orders. It also supports asynchronous matchmaking via concurrent queues.
+A high-performance, concurrent Order Book implemented in C++ using Intel Threading Building Blocks (TBB) for fine-grained concurrency. This project is designed for low-latency trading scenarios and includes features like limit orders, market orders, and IOC (immediate-or-cancel) orders. It also supports asynchronous matchmaking via concurrent queues. This is my personal project to practice concurrency, data structure, HPC, and learn about quant dev.
 
 ## Table of Contents
 
