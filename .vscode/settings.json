@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "thread": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "memory": "cpp",
+        "random": "cpp"
+    }
+}
